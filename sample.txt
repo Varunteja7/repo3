@@ -1,0 +1,4 @@
+Hi this is sample.txt 
+Here we will do some changes,stage & commit & push this to github.
+
+Hi this is change 1
